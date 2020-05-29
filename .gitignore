@@ -1,0 +1,4 @@
+#directories to ignore
+env/
+__pycache__/
+.vscode/
